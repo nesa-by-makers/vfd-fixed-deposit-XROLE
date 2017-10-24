@@ -1,0 +1,50 @@
+
+		  body {
+		  background-color: gray;
+		  }
+			#countainer {
+			
+			background-color:white;
+			margin:0 auto;
+			width:60%;
+			padding:20px;
+			height: 1000px;	
+			overflow:auto;
+		
+			}
+		
+		header{
+		
+		background-color:blue;
+		color:white;
+		margin:5px auto;
+		width:60%;
+		padding:20px;
+		text-align: center;
+		font-size: 15px;
+				}
+		
+		header img{float: left;
+			
+		}
+		h4{ background-color:blue;
+		color: white;
+		margin:0 auto;
+		width:60%;
+		padding:1%;
+		text-align:left;
+		}
+		
+		input[type="text"], input[type="number"] {
+		
+			width: 90%;
+			padding: 5px 5px;
+			margin:6px 0;
+			text-align: left;
+			font-family: verdana;
+			font-size: 20px;
+			
+		}
+		
+		
+	
